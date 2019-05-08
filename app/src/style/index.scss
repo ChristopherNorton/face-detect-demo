@@ -1,0 +1,19 @@
+@import 'general/variables.scss';
+@import './components/_import.scss';
+
+html {
+  font-size: 4.4vw;
+  user-select: none;
+}
+
+body, select, input, textarea {
+  transition: opacity 0.3s ease-in-out;
+  font-family: 'Montserrat', sans-serif;
+  outline: 0 !important;
+}
+
+input {
+  &:focus, &:active {
+    outline: none !important;
+  }
+}

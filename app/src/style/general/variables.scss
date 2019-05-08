@@ -1,0 +1,38 @@
+$blue:  #4299FF;
+$white: #f1f1f1;
+$black: #222;
+$gold: #e3cb4a;
+$gray: #b8b9bb;
+
+$secondaryColorLight:       lightGray;
+$secondaryColorDark:        #696969;
+$secondaryColorDarkest:     $black;
+
+$warning:                   #f45451;
+
+$error:                     #ffebee;
+$errorBorder:               #e57373;
+$errorFillGradientStart:    $warning;
+$errorFillGradientEnd:      #c62828;
+
+
+// ================== font weights ==================
+$lightFontWeight:           400;
+$normalFontWeight:          600;
+$boldFontWeight:            700;
+
+$black:                     #222;
+
+//inputs
+$input:                     $secondaryColorDarkest;
+
+$secondaryColorLight:       lightGray;
+$secondaryColorDark:        #696969;
+$secondaryColorDarkest:     $black;
+
+//inventory
+$inventoryFill:             #EBEFF1;
+
+$pdfPadding:                15px;
+$pdfWidth:                  8.5in;
+$pdfHeight:                 11in;

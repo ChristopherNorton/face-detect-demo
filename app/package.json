@@ -1,0 +1,33 @@
+{
+  "name": "face-detect-demo",
+  "license": "Unlicensed",
+  "private": true,
+  "dependencies": {
+    "core-js": "^2.6.0",
+    "node-sass": "^4.11.0",
+    "react": "^16.7.0",
+    "react-dom": "^16.6.3",
+    "react-redux": "^6.0.0",
+    "react-scripts": "^2.1.2",
+    "react-simple-keyboard": "^1.15.2",
+    "redux": "^4.0.1",
+    "redux-devtools-extension": "^2.13.7",
+    "redux-logger": "^3.0.6",
+    "redux-saga": "^0.16.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "npm-run-all": "^4.1.1"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

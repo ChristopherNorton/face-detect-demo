@@ -1,0 +1,15 @@
+.idea
+.idea/
+.idea/*
+.DS_Store
+letsencrypt/
+app/build
+app/node_modules
+app/yarn.lock
+app/src/style/css/App.css
+*.css
+node_modules
+.env
+/deploy/
+/deploy
+/deploy/*
